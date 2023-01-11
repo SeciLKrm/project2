@@ -1,7 +1,13 @@
 # project2
 # project2
 
-! [] (ekran1.gif)
+HTML CSS kullanıldı.
 
-! [] (ekran.gif)
+<h2> Çocukların Etkinlik Alanı Sayfası </h2>
+
+![](ekran1.gif)
+
+![](ekran2.gif)
+
+![](ekran3.gif)
 
