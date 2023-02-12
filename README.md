@@ -1,13 +1,11 @@
-# project2
-# project2
+<h1> KIDS WEBSITE </h1>
 
-HTML CSS kullanıldı.
+<h2> Used Technologies </h2>
 
-<h2> Çocukların Etkinlik Alanı Sayfası </h2>
+     HTML5 and CSS3
+    
+<p> Activity page for kids </p>
 
-![](ekran1.gif)
+![](screen.gif)
 
-![](ekran2.gif)
-
-![](ekran3.gif)
 
